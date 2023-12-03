@@ -1,2 +1,2 @@
-# WxpenseTracker
+# ExpenseTracker
 Expense Tracker app
